@@ -107,7 +107,7 @@ while true do
 	
 	idEntered = false
 	while not idEntered do
-		print("Please enter the song url:")
+		print("Please enter a song url:")
 		songUrl = read()
 		print("Is the url correct? (y/n):")
 		answer = read()
