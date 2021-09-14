@@ -100,7 +100,7 @@ while true do
 		end
 		print("\n")
 	else
-		print("***   No songs found on tape. Starting empty.   ***")
+		print("***   No songs found on tape. Starting empty.   ***\n")
 		clearHeader()
 		header = {}
 	end
